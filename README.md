@@ -96,7 +96,17 @@ Clone this repository:
 git clone https://github.com/Dilip-code584/HealthHub-Connect.git 
 
 
-Install requirements (using a virtual environment is preferable):
+Install requirements (using a virtual environment is highly recommended):
+
+Optional(but recommended)-
+
+Creating virtual enviornment-
+
+python3 -m venv myenv
+
+ source myenv/bin/activate
+
+
 
 pip install -r requirements.txt
 
