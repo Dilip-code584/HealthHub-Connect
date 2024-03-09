@@ -7,6 +7,8 @@ By harnessing the power of artificial intelligence, our innovative project is de
 Through the utilization of advanced predictive models, we aim to forecast the probability of developing critical conditions such as stroke, liver disease, heart ailments, diabetes, and pneumonia.
 Our system leverages the latest trends and comprehensive patient data to offer precise and reliable insights, enabling early identification and proactive management of potential health risks. 
 
+In this busy world where people dont have much time to get their blood pressure or cholestral checked, they can directly accesss our highly accurate website and directly get in touch with doctors if they find the chance of risk somewhere for some disease, this is more efficient and saves the time and money of both doctor and patients,Since AI is the future.
+
 With a focus on preventive care, our AI-driven solution endeavors to empower individuals and healthcare providers with valuable information, fostering a proactive approach to health maintenance and disease prevention. 
 Embracing the potential of AI, we are committed to revolutionizing healthcare by delivering personalized and data-driven predictions, ultimately contributing to improved patient outcomes and a healthier society.
 
