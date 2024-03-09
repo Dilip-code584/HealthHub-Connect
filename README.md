@@ -122,3 +122,10 @@ Run this command to start local server:
 
 python3 app.py
 
+Last but not the least-
+
+Dear ACM NITK, Spider R&D NITT, and CSEA NITW,
+
+Thank you for providing me this incredible opportunity to participate in the 36-hour hackathon.
+It was an enriching experience to present my project on disease prediction using machine learning using helathcare acces platform.
+Your support and encouragement mean the world to me, and I am grateful for the platform you provided to showcase my skills and innovation
