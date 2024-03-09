@@ -46,7 +46,6 @@ In my application AltairCare i have used machine learning and deep learning algo
 Prediction Page-
 ![Screenshot from 2024-03-10 00-22-48](https://github.com/Dilip-code584/HealthHub-Connect/assets/128896508/d9860799-d502-40d7-9d84-280cc511df75)
 
-
 Each Disease have it's own page with an overview and symptoms that patient may have, and also the prediction model information and required parameters that user must provide
 Disease Page-
 
