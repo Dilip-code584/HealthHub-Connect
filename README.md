@@ -2,30 +2,6 @@ Health-Access-Platform
 
 Health Hub Using AI
 
-Video of implementation-https://drive.google.com/file/d/1dZ-YSYTd1eFcLPyw25NrAooaVVPDbLat/view?usp=drive_link
-
-
-I have predicted here in the video only for one disease,but we can do the same for all...
-
-How a typical Hospital Mangement implementation system looks like-
-Usercase Diagram-
-![image](https://github.com/Dilip-code584/HealthHub-Connect/assets/128896508/40514b6a-d584-4ee4-a7eb-a67bb10c5b31)
-
-
-Class Diagram-
-![image](https://github.com/Dilip-code584/HealthHub-Connect/assets/128896508/694cfe3c-527d-45bc-91a0-e0726bcaaed1)
-
-
-How the system works like-
-![image](https://github.com/Dilip-code584/HealthHub-Connect/assets/128896508/015b5ce3-b624-401d-8547-2de72fda8972)
-
-
-Sequence Project-
-![Uploading image.png…]()
-
-
-Please note for the above ones I just referenced how hospital system works like,this has no link with my project..
-
 By harnessing the power of artificial intelligence, our innovative project is dedicated to transforming the realm of healthcare. 
 
 Through the utilization of advanced predictive models, we aim to forecast the probability of developing critical conditions such as stroke, liver disease, heart ailments, diabetes, and pneumonia.
@@ -41,6 +17,41 @@ ML algorithms are being employed to interpret medical images, predict disease pr
 The integration of ML with wearable devices and remote monitoring has facilitated continuous health tracking and early intervention, empowering individuals to actively manage their health.
 
 Furthermore, the trend towards explainable AI and ethical considerations in healthcare ML is shaping a transparent and responsible approach to leveraging these technologies for the benefit of patients, healthcare providers, and society as a whole.
+
+Video of implementation-https://drive.google.com/file/d/1dZ-YSYTd1eFcLPyw25NrAooaVVPDbLat/view?usp=drive_link
+
+
+I have predicted here in the video only for one disease,but we can do the same for all...
+
+How a typical Hospital Mangement implementation system looks like-
+
+
+Usercase Diagram-
+
+![image](https://github.com/Dilip-code584/HealthHub-Connect/assets/128896508/40514b6a-d584-4ee4-a7eb-a67bb10c5b31)
+
+
+Class Diagram-
+
+
+![image](https://github.com/Dilip-code584/HealthHub-Connect/assets/128896508/694cfe3c-527d-45bc-91a0-e0726bcaaed1)
+
+
+How the system works like-
+
+![image](https://github.com/Dilip-code584/HealthHub-Connect/assets/128896508/015b5ce3-b624-401d-8547-2de72fda8972)
+
+
+Sequence Project-
+
+![image](https://github.com/Dilip-code584/HealthHub-Connect/assets/128896508/31bfc8f4-6056-4207-a007-af9c2e8cea64)
+
+
+
+
+
+Please note for the above ones I just referenced how hospital system works like,this has no link with my project..
+
 
 In my application AltairCare i have used machine learning and deep learning algorithms to train highly accurate models and thus allowing users to check their chance of having one of the following diseases:
 
