@@ -100,7 +100,7 @@ Libraries Used :
  
 Clone this repository:
 
-git clone https://github.com/Dilip-code584/HealthHub-Connect.git 
+git clone https://github.com/Dilip-code584/HealthHub-Connect
 
 
 Install requirements (using a virtual environment is highly recommended):
