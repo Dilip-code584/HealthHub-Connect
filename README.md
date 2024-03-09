@@ -90,7 +90,14 @@ Libraries Used :
     Scikit-learn & tensorflow: for training the diseases prediction models
     sqlalchemy: library for handling sqlite database
 
+    Here for frontend I have used html css and js
+
+    Whereas for backend I have used much of python and libraries imported which i have referenced below-
+    
+
  How to run this project :
+
+ 
 Clone this repository:
 
 git clone https://github.com/Dilip-code584/HealthHub-Connect.git 
