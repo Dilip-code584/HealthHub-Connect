@@ -1,6 +1,6 @@
-Health-Access-Platform
+Health-Care-Access-Platform
 
-Health Hub Using AI
+Health Hub Using AI And Machine Learning Libraries
 
 By harnessing the power of artificial intelligence, our innovative project is dedicated to transforming the realm of healthcare. 
 
