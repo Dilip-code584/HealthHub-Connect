@@ -89,7 +89,6 @@ Clone this repository:
 
 git clone https://github.com/Dilip-code584/HealthHub-Connect.git 
 
-cd Healthcare-AI-WebApp
 
 Install requirements (using a virtual environment is preferable):
 
