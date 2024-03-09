@@ -18,6 +18,7 @@ Video of implementation-https://drive.google.com/file/d/1dZ-YSYTd1eFcLPyw25NrAoo
 
 I have predicted here in the video only for one disease,but we can do the same for all...
 By harnessing the power of artificial intelligence, our innovative project is dedicated to transforming the realm of healthcare. 
+
 Through the utilization of advanced predictive models, we aim to forecast the probability of developing critical conditions such as stroke, liver disease, heart ailments, diabetes, and pneumonia.
 Our system leverages the latest trends and comprehensive patient data to offer precise and reliable insights, enabling early identification and proactive management of potential health risks. 
 With a focus on preventive care, our AI-driven solution endeavors to empower individuals and healthcare providers with valuable information, fostering a proactive approach to health maintenance and disease prevention. 
