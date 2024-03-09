@@ -16,12 +16,16 @@ Its ability to analyze vast datasets has paved the way for personalized medicine
 ML algorithms are being employed to interpret medical images, predict disease progression, and optimize treatment plans, driving precision medicine and tailored interventions.
 The integration of ML with wearable devices and remote monitoring has facilitated continuous health tracking and early intervention, empowering individuals to actively manage their health.
 
+
 Furthermore, the trend towards explainable AI and ethical considerations in healthcare ML is shaping a transparent and responsible approach to leveraging these technologies for the benefit of patients, healthcare providers, and society as a whole.
 
 Video of implementation-https://drive.google.com/file/d/1dZ-YSYTd1eFcLPyw25NrAooaVVPDbLat/view?usp=drive_link
 
 
 I have predicted here in the video only for one disease,but we can do the same for all...
+
+All the necessary libraries such as tensorflow,xgboost,numpy scikit-learn etc.. I have referenced them directly in the requirements.txt file which can directly be installed just by referncing that-
+
 
 How a typical Hospital Mangement implementation system looks like-
 
