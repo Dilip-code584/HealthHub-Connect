@@ -1,7 +1,20 @@
 Health-Access-Platform
 Health Hub Using AI
 
+How a typical Hospital Mangement implementation system looks like-
+Usercase Diagram-
+![image](https://github.com/Dilip-code584/HealthHub-Connect/assets/128896508/40514b6a-d584-4ee4-a7eb-a67bb10c5b31)
+
+Class Diagram-
+![image](https://github.com/Dilip-code584/HealthHub-Connect/assets/128896508/694cfe3c-527d-45bc-91a0-e0726bcaaed1)
+
+How the system works like-
+![image](https://github.com/Dilip-code584/HealthHub-Connect/assets/128896508/015b5ce3-b624-401d-8547-2de72fda8972)
+
+Please note for the above ones I just referenced how hospital system works like,this has no link with my project..
+
 Video of implementation-https://drive.google.com/file/d/1dZ-YSYTd1eFcLPyw25NrAooaVVPDbLat/view?usp=drive_link
+
 
 I have predicted here in the video only for one disease,but we can do the same for all...
 By harnessing the power of artificial intelligence, our innovative project is dedicated to transforming the realm of healthcare. 
