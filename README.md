@@ -92,7 +92,7 @@ Libraries Used :
 
     Here for frontend I have used html css and js
 
-    Whereas for backend I have used much of python and libraries imported which i have referenced below-
+    Whereas for backend I have used much of python and libraries imported which i have referenced above-
     
 
  How to run this project :
