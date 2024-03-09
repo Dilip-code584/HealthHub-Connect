@@ -106,7 +106,7 @@ python3 -m venv myenv
 
  source myenv/bin/activate
 
-
+Mandatory Steps-
 
 pip install -r requirements.txt
 
