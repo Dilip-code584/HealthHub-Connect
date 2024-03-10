@@ -122,11 +122,14 @@ Run this command to start local server:
 
 python3 app.py
 
+
+(Optional)
+
 You can also try out go for implementing blockchain , done via hyperledger fabric chaincode make sure you have installed that,
 
  This provides basic functionality for patients to store their data and hospitals to access it, while ensuring data integrity and confidentiality.
 
- By Using Such Functionalities..
+ By Using Such Functionalities.., I have uploaded the go code in different branch since its not supported over here..
 
 
 import (
