@@ -154,9 +154,7 @@ type AccessControlContract struct {
 // GrantAccess grants access to a hospital for a patient's data
 func (ac *AccessControlContract) GrantAccess(patientID string, hospitalID string) error {
 	// Implement access control logic here
-	// For simplicity, we assume all hospitals have access to all patients
-	return nil
-}
+	
 
 // GetPatientData retrieves patient data for a hospital
 func (ac *AccessControlContract) GetPatientData(patientID string, hospitalID string) (*PatientData, error) {
