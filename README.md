@@ -129,7 +129,7 @@ You can also try out go for implementing blockchain , done via hyperledger fabri
 
  This provides basic functionality for patients to store their data and hospitals to access it, while ensuring data integrity and confidentiality.
 
- By Using Such Functionalities.., I have uploaded the go code in different branch since its not supported over here..
+ By Using Such Functionalities.., I have uploaded the go file also above.
 
 
 import (
